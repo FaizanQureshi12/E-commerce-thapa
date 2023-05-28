@@ -1,7 +1,14 @@
 import styled from "styled-components";
 
-return <Wrapper></Wrapper>;
 
+const SingleProduct = () => {
+  return( 
+  // <Wrapper>
+
+  // </Wrapper> 
+  <h2>gh proft</h2>
+  );
+}
 const Wrapper = styled.section`
   .container {
     padding: 9rem 0;
